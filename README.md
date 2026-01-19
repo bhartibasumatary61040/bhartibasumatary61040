@@ -2,13 +2,13 @@
 # 🌟 Hi I am Bharti Basumatary
 
 
-🌱 I’m currently learning Web and API Automation using java.
+🌱 I’m currently learning **Java backend development and Web & API Automation using Selenium and Spring Boot**.
 
-👯 I’m looking to collaborate on Software Testing projects in the Banking domain.
+👩‍💻 I’m looking to collaborate on **Software Development and Automation projects**, especially in the **Banking  domains**.
 
-🤔 I’m looking for help with Learning path for software automation(Selenium, Appium)
+🤝 I’m looking for guidance to advance my skills in **Java development and software automation (Selenium, Appium)**.
 
-🚀 Goal: Become a Test Automation Expert and contribute to large-scale automation solution
+🎯 **Goal:** To become a skilled **Java Developer and Automation Engineer** and contribute to **scalable, production-ready software solutions**.
 
 ---
 
