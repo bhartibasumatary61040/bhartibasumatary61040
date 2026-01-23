@@ -21,16 +21,17 @@ production-ready software solutions.
 ### 💻 Tech Stack:
 [![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)](https://www.oracle.com/java/)
 [![Java 8](https://img.shields.io/badge/Java%208-007396?style=for-the-badge&logo=java&logoColor=white)](https://www.oracle.com/java/technologies/javase/javase8-archive-downloads.html)
-[![Spring Framework](https://img.shields.io/badge/Spring_Framework-6DB33F?style=for-the-badge&logo=spring&logoColor=white)](https://spring.io/projects/spring-framework)
-[![Spring Boot](https://img.shields.io/badge/Spring_Boot-Production_Ready-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)](https://spring.io/projects/spring-boot)
-[![Maven](https://img.shields.io/badge/Apache_Maven-Build_Tool-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)](https://maven.apache.org/)
-[![Selenium](https://img.shields.io/badge/Selenium-WebDriver-43B02A?style=for-the-badge&logo=selenium&logoColor=white)](https://www.selenium.dev/)
-[![TestNG](https://img.shields.io/badge/TestNG-Test_Framework-DD0031?style=for-the-badge&logo=testng&logoColor=white)](https://testng.org/)
-[![API Automation](https://img.shields.io/badge/API_Automation-REST-0A66C2?style=for-the-badge&logo=swagger&logoColor=white)](https://swagger.io/)
-[![Postman](https://img.shields.io/badge/Postman-API_Client-FF6C37?style=for-the-badge&logo=postman&logoColor=white)](https://www.postman.com/)
-[![AWS](https://img.shields.io/badge/AWS-Cloud_Platform-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)](https://aws.amazon.com/)
-[![MySQL](https://img.shields.io/badge/MySQL-Relational_DB-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
-[![JIRA](https://img.shields.io/badge/JIRA-Issue_Tracking-0052CC?style=for-the-badge&logo=jira&logoColor=white)](https://www.atlassian.com/software/jira)
+[![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)](https://spring.io/projects/spring-framework)
+[![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)](https://spring.io/projects/spring-boot)
+[![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)](https://maven.apache.org/)
+[![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)](https://www.selenium.dev/)
+[![TestNG](https://img.shields.io/badge/TestNG-DD0031?style=for-the-badge&logo=testng&logoColor=white)](https://testng.org/)
+[![API Automation](https://img.shields.io/badge/API%20Automation-0A66C2?style=for-the-badge&logo=swagger&logoColor=white)](https://swagger.io/)
+[![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)](https://www.postman.com/)
+[![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)](https://aws.amazon.com/)
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
+[![JIRA](https://img.shields.io/badge/JIRA-0052CC?style=for-the-badge&logo=jira&logoColor=white)](https://www.atlassian.com/software/jira)
+
 
 
 ---
