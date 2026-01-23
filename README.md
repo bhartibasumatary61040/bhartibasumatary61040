@@ -2,18 +2,19 @@
 # 🌟 Hi I am Bharti Basumatary
 
 
-🌱 I’m currently learning **Java backend development and Web & API Automation using Selenium and Spring Boot**.
+🚀 I have hands-on experience in Java backend development and Web & API automation using Selenium and Spring Boot.
 
-👩‍💻 I’m looking to collaborate on **Software Development and Automation projects**, especially in the **Banking  domains**.
+🤝 Open to collaborating on software development and automation projects, especially in the banking domain.
 
-🤝 I’m looking for guidance to advance my skills in **Java development and software automation (Selenium, Appium)**.
+🎯 Goal: To grow as a Java Backend and Automation Engineer and contribute to scalable,
+production-ready software solutions.
 
-🎯 **Goal:** To become a skilled **Java Developer and Automation Engineer** and contribute to **scalable, production-ready software solutions**.
 
 ---
 
 ### 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/Connect%20on-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bharati-basumatary-9a39421b7/)
+[![Instagram](https://img.shields.io/badge/Instagram-jojobharti__-lightgrey?logo=instagram)](https://www.instagram.com/jojobharti_?igsh=NHY1eGw2OGVyd2Iy&utm_source=qr)
 ---
 
 ### 💻 Tech Stack:
