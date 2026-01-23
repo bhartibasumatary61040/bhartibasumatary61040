@@ -19,6 +19,24 @@ production-ready software solutions.
 ---
 
 ### 💻 Tech Stack:
+![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white)
+![Java 8](https://img.shields.io/badge/Java%208-007396?logo=java&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?logo=spring&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=white)
+![Microservices](https://img.shields.io/badge/Microservices-0A66C2?logo=cloud&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?logo=apachemaven&logoColor=white)
+
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?logo=selenium&logoColor=white)
+![TestNG](https://img.shields.io/badge/TestNG-DD0031?logo=testng&logoColor=white)
+![API Automation](https://img.shields.io/badge/API%20Automation-0A66C2?logo=swagger&logoColor=white)
+![Rest Assured](https://img.shields.io/badge/Rest%20Assured-3C873A?logo=java&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
+![JIRA](https://img.shields.io/badge/JIRA-0052CC?logo=jira&logoColor=white)
+
 [![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white&style=for-the-badge)]()
 ![Selenium](https://img.shields.io/badge/Selenium-Driver-blue?style=for-the-badge&logo=selenium) 
 ![TestNG](https://img.shields.io/badge/TestNG-6DB33F?style=for-the-badge&logo=testng&logoColor=white)
