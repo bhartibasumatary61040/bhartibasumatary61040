@@ -2,7 +2,7 @@
 # 🌟 Hi I am Bharti Basumatary
 
 
-🚀 I have hands-on experience in Java backend development and Web & API automation using Selenium and Spring Boot.
+🚀 I work on Java backend development and Web & API automation using Selenium and Spring Boot.
 
 🤝 Open to collaborating on software development and automation projects, especially in the banking domain.
 
