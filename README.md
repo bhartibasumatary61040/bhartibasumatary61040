@@ -2,12 +2,13 @@
 # 🌟 Hi I am Bharti Basumatary
 
 
-🚀 I work on Java backend development and Web & API automation using Selenium and Spring Boot.
+🔧 I work on Web & API Automation Testing using Selenium, Rest Assured & TestNG
+⚙️ Experience in framework development (POM, Data-Driven, Hybrid Framework)
+🌐 Strong understanding of API Testing, Backend Validation & Database Testing
+💡 Hands-on with Java Backend concepts (Spring Boot basics, REST APIs)
+🏦 Domain experience in Banking & E-commerce applications.
 
-🤝 Open to collaborating on software development and automation projects, especially in the banking domain.
-
-🎯 Goal: To grow as a Java Backend and Automation Engineer and contribute to scalable,
-production-ready software solutions.
+🎯 Goal:To grow as an Automation Engineer with strong backend knowledge and build scalable, high-quality test frameworks for real-world applications.
 
 
 ---
