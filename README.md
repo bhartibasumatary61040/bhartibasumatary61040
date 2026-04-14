@@ -32,6 +32,7 @@
 [![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)](https://www.selenium.dev/)
 [![TestNG](https://img.shields.io/badge/TestNG-DD0031?style=for-the-badge&logo=testng&logoColor=white)](https://testng.org/)
 [![API Automation](https://img.shields.io/badge/API%20Automation-0A66C2?style=for-the-badge&logo=swagger&logoColor=white)](https://swagger.io/)
+[![Rest Assured](https://img.shields.io/badge/RestAssured-6DB33F?style=for-the-badge&logo=java&logoColor=white)](https://rest-assured.io/)
 [![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)](https://www.postman.com/)
 [![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)](https://aws.amazon.com/)
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
