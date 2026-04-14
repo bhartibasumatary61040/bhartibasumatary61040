@@ -49,4 +49,6 @@
 ### ISTQB Foundation Level
 [View ISTQB Certificate](https://raw.githubusercontent.com/bhartibasumatary61040/bhartibasumatary61040/main/ISTQB%20CERTIFICATE01.jpg)
 
-![Profile Views](https://komarev.com/ghpvc/?username=bhartibasumatary61040&color=blue)
+## 🐍 Contribution Snake  
+
+![snake gif](https://github.com/bhartibasumatary61040/bhartibasumatary61040/blob/output/github-contribution-grid-snake.svg)
