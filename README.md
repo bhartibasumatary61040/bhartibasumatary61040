@@ -31,7 +31,6 @@
 [![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)](https://spring.io/projects/spring-framework)
 [![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)](https://spring.io/projects/spring-boot)
 [![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)](https://maven.apache.org/)
-[![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)](https://www.selenium.dev/)
 [![TestNG](https://img.shields.io/badge/TestNG-DD0031?style=for-the-badge&logo=testng&logoColor=white)](https://testng.org/)
 [![API Automation](https://img.shields.io/badge/API%20Automation-0A66C2?style=for-the-badge&logo=swagger&logoColor=white)](https://swagger.io/)
 [![Rest Assured](https://img.shields.io/badge/RestAssured-6DB33F?style=for-the-badge&logo=java&logoColor=white)](https://rest-assured.io/)
