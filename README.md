@@ -1,5 +1,5 @@
 
-# 🌟 Hi I am Bharti Basumatary
+# 🌟 Hi I am Bharati Basumatary
 
 
 🔧 I work on Web & API Automation Testing using Selenium, Rest Assured & TestNG.
