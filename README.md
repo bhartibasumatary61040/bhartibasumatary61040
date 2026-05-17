@@ -23,7 +23,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bharati-basumatary-9a39421b7/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jojobharti_?igsh=NHY1eGw2OGVyd2Iy&utm_source=qr)
 [![Portfolio](https://img.shields.io/badge/Portfolio-1E90FF?style=for-the-badge&logo=google-chrome&logoColor=white)](https://bhartibasumatary61040.github.io/)
-<img src="https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif" width="45">
+<img src="https://media.giphy.com/media/3orieTfp1MeFLiBQR2/giphy.gif" width="40">
 ---
 
 ### 💻 Tech Stack:
