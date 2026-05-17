@@ -54,4 +54,3 @@
 
 
 
-![snake gif](https://github.com/bhartibasumatary61040/bhartibasumatary61040/blob/output/github-contribution-grid-snake.svg)
