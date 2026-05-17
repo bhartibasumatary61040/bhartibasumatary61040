@@ -15,7 +15,8 @@
 🎯 Goal:To grow as an Automation Engineer with strong backend knowledge and build scalable, high-quality test frameworks for real-world applications.
 
 
----
+![snake gif](https://github.com/bhartibasumatary61040/bhartibasumatary61040/blob/output/github-contribution-grid-snake.svg)
+
 
 ### 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bharati-basumatary-9a39421b7/)
