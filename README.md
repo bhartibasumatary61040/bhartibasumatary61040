@@ -2,7 +2,7 @@
 # 🌟 Hi I am Bharati Basumatary
 
 <p align="right">
-  <img alt="coding_girl_setup" width="350" src="https://github.com/user-attachments/assets/f1a6f8a3-6167-4199-9152-9150fb0d1eb4" />
+  <img alt="coding_girl_setup" width="300" src="https://github.com/user-attachments/assets/f1a6f8a3-6167-4199-9152-9150fb0d1eb4" />
 </p>
 
 🔧 I work on Web & API Automation Testing using Selenium, Rest Assured & TestNG.
