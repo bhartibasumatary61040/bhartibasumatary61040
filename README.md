@@ -18,7 +18,7 @@
 ![snake gif](https://github.com/bhartibasumatary61040/bhartibasumatary61040/blob/output/github-contribution-grid-snake.svg)
 
 
-### 🌐 Socials:
+Globe with Meridians Emoji Let's Stay Connected:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bharati-basumatary-9a39421b7/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/jojobharti_?igsh=NHY1eGw2OGVyd2Iy&utm_source=qr)
 ---
