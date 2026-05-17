@@ -1,6 +1,5 @@
 
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hi, I'm 👩🏻‍💻 [Bharti](https://bhartibasumatary61040.github.io/)!
-<img align="right" alt="Coding Girl" width="320" src="https://github.com/user-attachments/assets/f1a6f8a3-6167-4199-9152-9150fb0d1eb4">
 
 <img align="right" alt="developer_coding_photo" width="320" src="https://github.com/user-attachments/assets/d5e691b2-29b0-4e41-a4ab-7f6d7bc2b5a1" />
 🔧 I work on Web & API Automation Testing using Selenium, Rest Assured & TestNG.
