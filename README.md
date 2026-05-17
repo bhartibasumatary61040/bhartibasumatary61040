@@ -1,7 +1,10 @@
 
 # 🌟 Hi I am Bharati Basumatary
 
-<img align="right" alt="Coding" width="350" src="https://pin.it/1z35K9vWH">
+<img width="559" height="559" alt="coding_girl_setup" src="https://github.com/user-attachments/assets/f1a6f8a3-6167-4199-9152-9150fb0d1eb4" />
+
+
+
 🔧 I work on Web & API Automation Testing using Selenium, Rest Assured & TestNG.
 
 ⚙️ Experience in framework development (POM, Data-Driven, Hybrid Framework).
