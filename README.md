@@ -3,10 +3,15 @@
 
 <img align="right" alt="developer_coding_photo" width="320" src="https://github.com/user-attachments/assets/d5e691b2-29b0-4e41-a4ab-7f6d7bc2b5a1" />
 🔧 I work on Web & API Automation Testing using Selenium, Rest Assured & TestNG.
+
 ⚙️ Experience in framework development (POM, Data-Driven, Hybrid Framework).
+
 🌐 Strong understanding of API Testing, Backend Validation & Database Testing.
+
 💡 Hands-on with Java Backend concepts (Spring Boot basics, REST APIs).
+
 🏦 Domain experience in Banking & E-commerce applications.
+
 🎯 Goal:To grow as an Automation Engineer with strong backend knowledge and build scalable, high-quality test frameworks for real-world applications.
 
 
