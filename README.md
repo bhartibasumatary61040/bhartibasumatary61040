@@ -22,6 +22,10 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bharati-basumatary-9a39421b7/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/jojobharti_?igsh=NHY1eGw2OGVyd2Iy&utm_source=qr)
+
+🌐 Portfolio: [bhartibasumatary61040.github.io](https://bhartibasumatary61040.github.io/)
+
+
 ---
 
 ### 💻 Tech Stack:
