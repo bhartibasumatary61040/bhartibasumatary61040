@@ -1,18 +1,19 @@
 
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hi, I'm 👩🏻‍💻 [Bharti](https://bhartibasumatary61040.github.io/)!
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hi, I'm 👩🏻‍💻 [Bharti!](https://bhartibasumatary61040.github.io/)
 
 <img align="right" alt="developer_coding_photo" width="320" src="https://github.com/user-attachments/assets/d5e691b2-29b0-4e41-a4ab-7f6d7bc2b5a1" />
-🔧 I work on Web & API Automation Testing using Selenium, Rest Assured & TestNG.
 
-⚙️ Experience in framework development (POM, Data-Driven, Hybrid Framework).
+- 🔧 I work on Web & API Automation Testing using Selenium, Rest Assured & TestNG.
 
-🌐 Strong understanding of API Testing, Backend Validation & Database Testing.
+- ⚙️ Experience in framework development (POM, Data-Driven, Hybrid Framework).
 
-💡 Hands-on with Java Backend concepts (Spring Boot basics, REST APIs).
+- 🌐 Strong understanding of API Testing, Backend Validation & Database Testing.
 
-🏦 Domain experience in Banking & E-commerce applications.
+- 💡 Hands-on with Java Backend concepts (Spring Boot basics, REST APIs).
 
-🎯 Goal:To grow as an Automation Engineer with strong backend knowledge and build scalable, high-quality test frameworks for real-world applications.
+- 🏦 Domain experience in Banking & E-commerce applications.
+
+- 🎯 Goal: To grow as an Automation Engineer with strong backend knowledge and build scalable, high-quality test frameworks for real-world applications.
 
 
 ![snake gif](https://github.com/bhartibasumatary61040/bhartibasumatary61040/blob/output/github-contribution-grid-snake.svg)
