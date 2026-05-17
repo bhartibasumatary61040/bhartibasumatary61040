@@ -1,17 +1,12 @@
 
 # 🌟 Hi I am Bharati Basumatary
 
-<p align="right">
-<img width="323" height="244" alt="developer_coding_photo" src="https://github.com/user-attachments/assets/2f4d511b-9dc6-475d-8bd9-2c2abef8e8ef" />
-</p>
+<img align="right" alt="Coding" width="320" src="https://github.com/user-attachments/assets/f1a6f8a3-6167-4199-9152-9150fb0d1eb4">
 
-🔧 I work on Web & API Automation Testing using Selenium, Rest Assured & TestNG.
-
-⚙️ Experience in framework development (POM, Data-Driven, Hybrid Framework).
-
-🌐 Strong understanding of API Testing, Backend Validation & Database Testing.
-
-💡 Hands-on with Java Backend concepts (Spring Boot basics, REST APIs).
+- 🔧 I work on Web & API Automation Testing using Selenium, Rest Assured & TestNG.
+- ⚙️ Experience in framework development (POM, Data-Driven, Hybrid Framework).
+- 🌐 Strong understanding of API Testing, Backend Validation & Database Testing.
+- 💡 Hands-on with Java Backend concepts (Spring Boot basics, REST APIs).
 
 🏦 Domain experience in Banking & E-commerce applications.
 
