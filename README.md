@@ -21,7 +21,7 @@
 ### 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bharati-basumatary-9a39421b7/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/jojobharti_?igsh=NHY1eGw2OGVyd2Iy&utm_source=qr)
-
+---
 
 ### 💻 Tech Stack:
 [![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)](https://www.oracle.com/java/)
@@ -49,6 +49,6 @@
 
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/a7d483b6-86d4-40e5-9509-9d688ceab078" width="700"/>
+  <img src="https://github.com/user-attachments/assets/a7d483b6-86d4-40e5-9509-9d688ceab078" width="1000"/>
 </p>
 
