@@ -1,6 +1,8 @@
 
 # 🌟 Hi I am Bharati Basumatary
 
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+
 
 🔧 I work on Web & API Automation Testing using Selenium, Rest Assured & TestNG.
 
