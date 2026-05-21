@@ -3,7 +3,7 @@
 
 <img align="right" alt="developer_coding_photo" width="320" src="https://github.com/user-attachments/assets/d5e691b2-29b0-4e41-a4ab-7f6d7bc2b5a1" />
 
-🔧 I work on Web & API Automation Testing using Selenium, Rest Assured & TestNG.
+🔧 I work on Web & API Automation Testing using Selenium, Rest Assured & TestNG..
 
 ⚙️ Experience in framework development (POM, Data-Driven, Hybrid Framework).
 
