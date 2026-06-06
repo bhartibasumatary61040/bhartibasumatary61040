@@ -11,7 +11,7 @@
 
 💡 Hands-on with Java Backend concepts (Spring Boot basics, REST APIs).
 
-🏦 Domain experience in Banking & E-commerce applications.
+🏦 Domain experience in Banking, Telecom, EDTech & E-commerce applications.
 
 🎯 Goal: To grow as an Automation Engineer with strong backend knowledge and build scalable, high-quality test frameworks for real-world applications.
 
