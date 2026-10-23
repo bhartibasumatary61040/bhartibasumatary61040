@@ -3,17 +3,17 @@
 
 <img align="right" alt="developer_coding_photo" width="320" src="https://github.com/user-attachments/assets/d5e691b2-29b0-4e41-a4ab-7f6d7bc2b5a1" />
 
-🔧 I work on Web & API Automation Testing using Selenium, Rest Assured & TestNG.
+🔧 I work on Web and API Automation Testing using Selenium WebDriver, Playwright, REST Assured, and Karate Framework.
 
-⚙️ Experience in framework development (POM, Data-Driven, Hybrid Framework).
+⚙️ Experienced in designing automation frameworks, including POM, Data-Driven, and Hybrid Frameworks.
 
-🌐 Strong understanding of API Testing, Backend Validation & Database Testing.
+🌐 Strong understanding of API testing, authentication, backend validation, JSON response validation, and database testing.
 
-💡 Hands-on with Java Backend concepts (Spring Boot basics, REST APIs).
+💻 Hands-on experience with Java, JavaScript, Maven, Git, and CI/CD testing workflows.
 
-🏦 Domain experience in Banking, Telecom, EDTech & E-commerce applications.
+🏦 Domain experience in Banking, Telecom, EdTech, E-commerce, and API integration testing.
 
-🎯 Goal: To grow as an Automation Engineer with strong backend knowledge and build scalable, high-quality test frameworks for real-world applications.
+🎯 Goal: To build reliable, scalable automation frameworks and strengthen my expertise in API automation, backend testing, and quality engineering.
 
 
 ![snake gif](https://github.com/bhartibasumatary61040/bhartibasumatary61040/blob/output/github-contribution-grid-snake.svg)
@@ -40,7 +40,9 @@
 [![API Automation](https://img.shields.io/badge/API%20Automation-0A66C2?style=for-the-badge&logo=swagger&logoColor=white)](https://swagger.io/)
 [![Rest Assured](https://img.shields.io/badge/RestAssured-6DB33F?style=for-the-badge&logo=java&logoColor=white)](https://rest-assured.io/)
 [![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)](https://www.postman.com/)
+![Karate](https://img.shields.io/badge/Karate-Framework-6B46C1?style=for-the-badge&logo=karatelabs&logoColor=white)
 [![Git](https://img.shields.io/badge/Git-Version_Control-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
+![GitLab](https://img.shields.io/badge/GitLab-FCA121?style=for-the-badge&logo=gitlab&logoColor=white)
 [![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)](https://aws.amazon.com/)
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
 [![JIRA](https://img.shields.io/badge/JIRA-0052CC?style=for-the-badge&logo=jira&logoColor=white)](https://www.atlassian.com/software/jira)
